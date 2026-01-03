@@ -193,22 +193,7 @@ This project helped practice:
 - Keyboard event handling
 - Creating custom UI components
 
-## 👨‍💻 Author
 
-**Anjila**
-- GitHub: [@Anjila-26](https://github.com/Anjila-26)
-- Project: [30 Days 30 Projects - Programiz](https://github.com/Anjila-26/Pomodoro-Timer)
 
-## 📄 License
 
-This project is part of the 30 Days 30 Projects challenge and is open source.
 
-## 🙏 Acknowledgments
-
-- Design inspired by retro calculator interfaces
-- Part of the Programiz 30 Days 30 Projects challenge
-- Icons and imagery created for this project
-
----
-
-**Day 1 of 30** | *Built with 💖 and ☕*
